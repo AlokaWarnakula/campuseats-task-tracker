@@ -1,0 +1,14 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "description": "A small task tracker used for the SE3090 Lab 08 Git and CI/CD practical",
+  "main": "src/tasks.js",
+  "scripts": {
+    "start": "node src/tasks.js",
+    "test": "node src/tasks.js"
+  },
+  "dependencies": {
+    "minimist": "1.2.0"
+  },
+  "license": "MIT"
+}
